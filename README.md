@@ -18,4 +18,4 @@ The code written in spinner.cs enables rotation of object.
 
 
 
-Any hinderance caused should be forgiven as that time was learning phase.
+Any hindrance caused should be forgiven as that time was learning phase.
