@@ -12,7 +12,7 @@ I learned Basic Collision, little bit of Physics System, player Movement, Basic 
 The code written in dropper.cs enables gravity.
 The code written in scorer.cs is used to count score but it can only be shown in Unity Editor.
 The code written in objectHit.cs is based on Collision.
-The code written in playerMovement.cs enables movament of player.
+The code written in playerMovement.cs enables movement of player.
 The code written in dropper.cs enables gravity.
 The code written in spinner.cs enables rotation of object.
 
