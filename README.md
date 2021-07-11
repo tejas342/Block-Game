@@ -19,3 +19,6 @@ The code written in spinner.cs enables rotation of object.
 
 
 Any hindrance caused should be forgiven as that time was learning phase.
+
+
+Thank You!!
