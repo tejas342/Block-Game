@@ -9,16 +9,16 @@ You can control it with standard ARROW-KEYS and W,S,A,D.
 
 I learned Basic Collision, little bit of Physics System, player Movement, Basic Coding in C#.
 # Code
-The code written in dropper.cs enables gravity.
-The code written in scorer.cs is used to count score but it can only be shown in Unity Editor.
-The code written in objectHit.cs is based on Collision.
-The code written in playerMovement.cs enables movement of player.
-The code written in dropper.cs enables gravity.
-The code written in spinner.cs enables rotation of object.
+* The code written in dropper.cs enables gravity.
+* The code written in scorer.cs is used to count score but it can only be shown in Unity Editor.
+* The code written in objectHit.cs is based on Collision.
+* The code written in playerMovement.cs enables movement of player.
+* The code written in dropper.cs enables gravity.
+* The code written in spinner.cs enables rotation of object.
 
 
 
 Any hindrance caused should be forgiven as that time was learning phase.
 
 
-Thank You!!
+Thank You!!✌
